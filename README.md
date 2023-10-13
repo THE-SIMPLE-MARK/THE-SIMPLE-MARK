@@ -22,5 +22,5 @@ If you like what I'm doing and want to support me, please consider sponsoring me
 ### Contact
 If you have any questions or just want to see hi, you can reach me through:
 
-- Discord: SIMPLE MARK#3941
+- Discord: @simplemark
 - Email: mark@simplemark.me
